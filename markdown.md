@@ -1,7 +1,7 @@
 # my first markdown
 
 ### This is a *sample* for making markdown
-#### With *differnt* font size
+#### With *differnt* font sizes
 
 
 - [ ] This is a complete item
@@ -15,4 +15,17 @@
 
 <img src="http://ericytai.com/images/et-logo.svg" width="180">
 
+
  [myWebsite](http://ericytai.comg)
+
+---
+
+```JavaScript
+let exampleFunction = () => {
+  const foo = 'foo';
+  const bar = 'bar';
+
+  return foo + bar;
+}
+
+```
